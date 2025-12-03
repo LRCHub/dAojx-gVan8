@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "letter writer",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T10:28:54.741035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "letter writer",
+      "artist": "豊崎 愛生",
+      "has_synced": true,
+      "path": "select/01_letter_writer_豊崎_愛生.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "letter writer",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/02_letter_writer_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Letter Writer",
+      "artist": "Aki Toyosaki",
+      "has_synced": true,
+      "path": "select/03_Letter_Writer_Aki_Toyosaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Letter Writer",
+      "artist": "Afshin",
+      "has_synced": true,
+      "path": "select/04_Letter_Writer_Afshin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "letter writer",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_letter_writer_豊崎_愛生.txt"
+    }
+  ]
+}
